@@ -1,5 +1,14 @@
 # RestaurantList
 
+Fetures
+###############################
+
+-> Ability to Sort restaurants by distance.
+
+-> Display list of restaurants with image, name and distance
+
+-> Detail Screen of each restaurant.
+
 Guidline
 ###############################
 
